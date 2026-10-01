@@ -1,0 +1,85 @@
+    Paleta de cores
+    Rosa Chantilly  #F4A7B9
+    Chocolate   #5D4037
+    Creme   #FFF4EE
+    Menta   #8ED1B2
+    Framboesa   rgb(176, 42, 76)
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #5D4037;
+    background-color: #FFF4EE;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 22px;
+    color: rgb(176, 42, 76)
+}
+
+strong {
+    color: rgb(176, 42, 76)
+}
+
+.topo {
+    background-color: #5D4037;
+    text-align: center;
+    padding: 20px;
+}
+
+.marca {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 34px;
+    color: #FFF4EE;
+}
+
+.sobre,
+.produtos,
+.producao {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.sobre {
+    background-color: #FFF4EE;
+}
+
+.produtos {
+    background-color: #F4A7B9;
+}
+
+.producao {
+    background-color: #8ED1B2;
+}
+
+.card {
+    background-color: #FFF4EE;
+    padding: 20px;
+    margin: 24px auto;
+    max-width: 360px;
+}
+
+ca
+#rodape {
+    background-color: #5D4037;
+    color: #FFF4EE;
+    text-align: center;
+    padding: 24px 20px;
+}
